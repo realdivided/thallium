@@ -1,1 +1,1 @@
-![thallium logo](thallium.png)
+![thallium logo](thallium_logo.png)
