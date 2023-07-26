@@ -6,7 +6,7 @@ It supports all Minecraft versions from 1.4.
 
 # Installation
 
-1. Grab the latest version from the releases
+1. Clone this repository
 2. Create a config file
 3. Run with `thallium -config config.toml`
 
