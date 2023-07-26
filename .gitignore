@@ -1,0 +1,10 @@
+.idea/
+
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+thallium
+config.toml
