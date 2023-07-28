@@ -4,6 +4,10 @@
 ### Thallium is an open source service for pinging Minecraft servers and write results into MySQL backend. 
 It supports all Minecraft versions from 1.4.
 
+### ⚠ Thallium is a fork of acamar
+
+https://github.com/xtrafrancyz/acamar
+
 # Installation
 
 1. Clone this repository
